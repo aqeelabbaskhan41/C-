@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691494300 source:c:\users\this pc\desktop\rough c++\file handling cpp\file handling\main.cpp
+	<iostream>
+	<fstream>
+
