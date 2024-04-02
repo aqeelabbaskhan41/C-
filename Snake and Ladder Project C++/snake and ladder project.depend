@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1689473819 source:e:\programing fundamentals 2nd sem\snake and ladder project\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<fstream>
+
